@@ -1,0 +1,35 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: stevejuma/hugo:0.74.3
+
+    working_directory: ~/app
+    steps:
+      - restore_cache:
+          keys:
+            - app-source-{{ .Branch }}-{{ .Revision }}
+            - app-source-{{ .Branch }}-
+            - app-source-
+      - checkout
+      - save_cache:
+          key: app-source-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - ~/app
+      - run: |-
+         echo '[default]'; \
+         echo 'access_key=\$S3_ACCESS_KEY_ID'; \
+         echo 'secret_key=\$S3_SECRET_ACCESS_KEY'; \
+         } > ~/.s3cfg
+      - run: rm -rf ./public && hugo
+      - run: "[ -d ./public ] && cd public && s3cmd sync --delete-removed -P . s3://lambeth-web-techaid-tech/"
+
+workflows:
+  version: 2
+  ci_workflow:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
