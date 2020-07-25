@@ -55,14 +55,14 @@ URL = "blog/"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
-URL = "contact/"
-weight = 4
-
-[[menu.main]]
 name = "Go to App"
 URL = "dashboard/"
 weight = 3
+
+[[menu.main]]
+name = "Contact"
+URL = "contact/"
+weight = 4
 
 # footer menu
 [[menu.footer]]
