@@ -31,6 +31,7 @@ workflows:
   ci_workflow:
     jobs:
       - build:
+          context: global
           filters:
             branches:
               only: master
