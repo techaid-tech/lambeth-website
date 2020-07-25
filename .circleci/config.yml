@@ -20,8 +20,8 @@ jobs:
       - run: |-
          {
          echo '[default]'; \
-         echo 'access_key=\$S3_ACCESS_KEY_ID'; \
-         echo 'secret_key=\$S3_SECRET_ACCESS_KEY'; \
+         echo "access_key=\$S3_ACCESS_KEY_ID"; \
+         echo "secret_key=\$S3_SECRET_ACCESS_KEY"; \
          } > ~/.s3cfg
       - run: rm -rf ./public && hugo
       - run: "[ -d ./public ] && cd public && s3cmd sync --delete-removed -P . s3://lambeth-web-techaid-tech/"
