@@ -5,11 +5,11 @@ backend:
   # base_url: https://lambeth-techaid-staging.ju.ma
   # site_domain: lambeth-techaid-staging.ju.ma
   # auth_endpoint: hugo/auth
-media_folder: static/img
-public_folder: /img
+media_folder: static/images
+public_folder: /images
 collections:
-  - name: 'posts'
-    label: 'Posts'
+  - name: 'main'
+    label: 'Main'
     folder: 'content/english'
     create: true
     editor:
@@ -20,3 +20,103 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/english/blog'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Draft', name: 'draft', widget: 'boolean' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'contact'
+    label: 'Contact Us'
+    folder: 'content/english/contact'
+    create: false
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - label: Office 
+        name: office 
+        widget: object
+        fields:
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Email', name: 'email', widget: 'string' }
+        - { label: 'Location', name: 'location', widget: 'string' }
+        - { label: 'Content', name: 'content', widget: 'markdown' }
+        - label: Twitter 
+          name: twitter
+          widget: object
+          fields: 
+          - { label: 'URL', name: 'url', widget: 'string' }
+          - { label: 'Text', name: 'text', widget: 'string' }
+        - label: Facebook 
+          name: facebook
+          widget: object
+          fields: 
+          - { label: 'URL', name: 'url', widget: 'string' }
+          - { label: 'Text', name: 'text', widget: 'string' }
+  - name: 'homepage'
+    label: 'Home Page'
+    editor:
+      preview: false
+    files:
+    - label: 'Sections'
+      name: 'sections'
+      file: 'data/en/homepage.yml'
+      fields:
+      - name: 'banner'
+        label: Banner 
+        widget: object
+        fields: 
+        - { label: 'Enable', name: 'enable', widget: 'boolean' } 
+        - { label: 'Title', name: 'title', widget: 'string' } 
+        - { label: 'Image', name: 'image', widget: 'file' } 
+        - { label: 'Content', name: 'content', widget: 'markdown' }
+        - name: button
+          label: Button 
+          widget: object 
+          fields:
+          - { label: 'Enable', name: 'enable', widget: 'boolean' }  
+          - { label: 'Label', name: 'label', widget: 'string' } 
+          - { label: 'Link', name: 'link', widget: 'string' } 
+      - name: 'promo'
+        label: Volunteer 
+        widget: object
+        fields: 
+        - { label: 'Enable', name: 'enable', widget: 'boolean' }
+        - { label: 'Image', name: 'image', widget: 'file' } 
+        - { label: 'Title', name: 'title', widget: 'string' } 
+        - { label: 'Text', name: 'text', widget: 'string' } 
+        - { label: 'Link', name: 'link', widget: 'string' }  
+        - { label: 'Content', name: 'content', widget: 'markdown' } 
+      - name: 'subscription'
+        label: Donate Device 
+        widget: object
+        fields: 
+        - { label: 'Enable', name: 'enable', widget: 'boolean' } 
+        - { label: 'Background Image', name: 'bg_image', widget: 'file' } 
+        - { label: 'Title', name: 'title', widget: 'string' } 
+        - { label: 'Content', name: 'content', widget: 'markdown' } 
+        - { label: 'Link Text', name: 'text', widget: 'string' } 
+        - { label: 'Link', name: 'link', widget: 'string' } 
+      - name: 'testimonial'
+        label: Testimonial 
+        widget: object
+        fields: 
+        - { label: 'Enable', name: 'enable', widget: 'boolean' } 
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - name: testimonial_item
+          label: Testimony 
+          widget: list 
+          fields:
+          - { label: 'Name', name: 'name', widget: 'string' }  
+          - { label: 'Designation', name: 'designation', widget: 'string' } 
+          - { label: 'Content', name: 'content', widget: 'markdown' } 
+      
+

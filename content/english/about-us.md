@@ -1,5 +1,5 @@
 ---
-title: "Our Aims"
+title: "About Us"
 description : "About Lambeth Techaid"
 draft: false
 ---
