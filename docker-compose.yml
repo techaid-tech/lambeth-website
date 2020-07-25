@@ -1,0 +1,9 @@
+version: "3.5"
+services:
+  web:
+    container_name: netlify
+    image: nginx:1.18-alpine
+    ports:
+      - 8000:80
+    volumes:
+      - ./public:/usr/share/nginx/html:ro

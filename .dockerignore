@@ -1,0 +1,7 @@
+Dockerfile
+.git
+.gitignore
+Makefile
+public
+LICENSE
+.DS_Store

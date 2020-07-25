@@ -1,0 +1,114 @@
+################################### Default Configuration ############################
+baseurl = "/"
+title = "Lambeth TechAid | Helping Lambeth Get Online"
+theme = "vex-hugo"
+# post excert
+summarylength = "20"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disable language
+disableLanguages = [] # desable language from here
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.css]]
+link = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+
+###################################### Navigation ######################################
+
+# homepage section menu
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+# main menu
+[[menu.main]]
+name = "About Us"
+URL = "about-us/"
+weight = 2
+
+[[menu.main]]
+name = "FAQs"
+URL = "blog/faqs/"
+weight = 3
+
+# main menu
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+URL = "contact/"
+weight = 4
+
+# footer menu
+[[menu.footer]]
+name = "Blog"
+URL = "blog/"
+weight = 1
+
+[[menu.footer]]
+name = "Contact"
+URL = "contact/"
+weight = 2
+
+[[menu.footer]]
+name = "Terms & Conditions"
+URL = "terms-conditions/"
+weight = 3
+
+[[menu.footer]]
+name = "Privacy Policy"
+URL = "privacy-policy/"
+weight = 4
+
+
+########################### Default parameters ##########################
+[params]
+image = "images/banner.png"
+logo = "images/logo.png"
+logo_width = "38px"
+# Meta data
+description = "Lambeth TechAid was initiated by Streatham residents who came together over social media in response to the Covid-19 outbreak. We are united in our desire to enable as many Lambeth households as possible to access the internet"
+author = "Lambeth TechAid"
+# currency
+currency = "$"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use .png , .svg or .gif format
+
+# Subscription
+[params.subscription]
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# copyright
+copyright = "Lambeth TechAid"
+
+
