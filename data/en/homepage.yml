@@ -1,46 +1,45 @@
-############################# banner ############################
 banner:
-  enable : true
-  title : "Lambeth TechAid"
-  content: |-
-    At the moment, there are hundreds of people stuck at home without a suitable device to access the internet 
+  enable: true
+  title: Lambeth TechAid
+  content: >-
+    At the moment, there are hundreds of people stuck at home without a suitable
+    device to access the internet 
+
     to communicate with loved ones, access educational resources and essential online services, or even to 
+
     get some basic entertainment. It's our aim to collect your unwanted devices and deliver them to people 
+
     who really need them. 
-  image : "images/banner.png"
+  image: images/banner.png
   button:
-   enable : true
-   label : "Learn More"
-   link : "about-us/"
-
-############################# promo ############################
+    enable: true
+    label: Learn More
+    link: about-us/
 promo:
-  enable : true
-  image : "images/volunteers.jpg"
-  title : "We Need Volunteers"
-  text : Volunteer
-  link : "#"
-  content : |-
-    If you would like to assist with this initiative, please fill in the volunteer form and 
-    we will be in touch to see how we might work together.
-
-################################## Subscription ###################
-subscription:
-  enable : true
-  bg_image : "images/banner.png"
-  title : "We Need Devices"
-  content : "Do you have a laptop you no longer need? A tablet sitting at the bottom of your cupboard? Or a smartphone gathering dust?"
-  text : "Donate Device"
+  enable: true
+  image: images/volunteers.jpg
+  title: We Need Volunteers
+  text: Volunteer
   link: "#"
+  content: >-
+    If you would like to assist with this initiative, please fill in the
+    volunteer form and 
 
-
-############################## Testimonial ##########################
+    we will be in touch to see how we might work together.
+subscription:
+  enable: true
+  bg_image: images/banner.png
+  title: We Need Devices
+  content: Do you have a laptop you no longer need? A tablet sitting at the bottom
+    of your cupboard? Or a smartphone gathering dust?
+  text: Donate Device
+  link: /app/donate-device
 testimonial:
-  enable : true
-  title : "Recent Feedback"
+  enable: true
+  title: Recent Feedback
   testimonial_item:
-    # testimonial item loop
-    - name : "Via Twitter"
-      designation : ""
-      content : "was so happy yesterday, the tablet will really give her the opportunity to go back to college or get a job, you really transformed her life with that gift"
-    
+    - name: Via Twitter
+      designation: " "
+      content: was so happy yesterday, the tablet will really give her the opportunity
+        to go back to college or get a job, you really transformed her life with
+        that gift
