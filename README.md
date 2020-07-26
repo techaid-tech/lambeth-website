@@ -9,6 +9,10 @@ master branch will trigger a deployment that is uploaded to S3 where the site is
 
 ```console
 $ make
+# Build Website with Hugo
+hugo -D
+# Serve locally 
+hugo serve
 ```
 
 **deploying**
