@@ -56,7 +56,7 @@ weight = 3
 
 [[menu.main]]
 name = "Go to App"
-URL = "dashboard/"
+URL = "app/"
 weight = 4
 
 [[menu.main]]
