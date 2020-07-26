@@ -4,7 +4,7 @@ backend:
   auth_type: implicit
   base_url: https://lambeth-techaid.ju.ma
   site_domain: lambeth-techaid.ju.ma
-  auth_endpoint: hugo/auth
+  auth_endpoint: api/hugo/auth
 media_folder: static/images
 public_folder: /images
 collections:
