@@ -55,6 +55,11 @@ weight = 3
 #weight = 3
 
 [[menu.main]]
+name = "Request Devices"
+URL = "app/organisation-device-request"
+weight = 3
+
+[[menu.main]]
 name = "Go to App"
 URL = "app/"
 weight = 4
