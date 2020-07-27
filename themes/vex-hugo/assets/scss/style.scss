@@ -632,3 +632,45 @@ textarea.form-control {
     background: #dadada;
   }
 }
+
+.faq-items {
+  height: 100%;
+  input {
+    display: none;
+
+    &:checked ~ .acc-content{
+      display: block;
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+
+  input:checked {
+    + .acc-item {
+      &::after {
+        transform: rotate(90deg);
+      }
+    }
+  }
+
+  .acc-content {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+    transition: all .35s;
+  }
+
+  .acc-item {
+    display: flex;
+    justify-content: flex-start;
+    cursor: pointer;
+    &::after {
+      content: "\276F";
+      width: 1em;
+      height: 1em;
+      text-align: center;
+      transition: all .35s;
+      margin-top: 5px;
+    }
+  }
+}

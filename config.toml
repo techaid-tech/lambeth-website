@@ -45,14 +45,14 @@ weight = 2
 
 [[menu.main]]
 name = "FAQs"
-URL = "blog/faqs/"
+URL = "/faqs/"
 weight = 3
 
 # main menu
-[[menu.main]]
-name = "Blog"
-URL = "blog/"
-weight = 3
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog/"
+#weight = 3
 
 [[menu.main]]
 name = "Go to App"

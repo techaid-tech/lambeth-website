@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col">
+        <div class="faq-items">
+          {{ range  .Pages.ByParam "weight" }}
+            {{ $group := .Params }}
+            {{ $content := .Content }}
+            {{ with .Params }}
+              <h1 class="mb-4">{{ .title }}</h1>
+              <div class="">{{ $content }}</div>
+              {{ range $index, $element := .items }}
+              <div class="accordion">
+                <input type="checkbox" id="acc-{{ $group.id }}-{{ $index}}" />
+                <label for="acc-{{ $group.id }}-{{ $index}}" class="acc-item">
+                  <h2 class="mb-2 mr-2">{{ .question }}</h2>
+                </label>
+                <div class="acc-content">
+                  <p>{{ .answer | markdownify }}</p>
+                </div>
+              </div>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div> 
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
