@@ -24,3 +24,4 @@ items:
 
     We cannot repair or replace cracked or damaged screens. Similarly, if a device cannot be turned on we will be unable to use it. However, charger cables and plugs, and computer power converters and leads in good condition are very helpful as many devices are donated without them.
 ---
+Our frequently asked questions with regards to donations and how we process them. If none of the answers here answer your query, feel free to email us.
