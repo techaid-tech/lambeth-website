@@ -2,7 +2,7 @@
 id: devices
 title: Donating Devices
 draft: false
-weight: 2
+weight: 1
 items:
   - question: Does the device have to be working?  How do I know if you want it?
     answer: >-
@@ -14,7 +14,7 @@ items:
       We will be doing a fresh install on donated devices, so they need to be able to start OK and run without too many problems before we do that install.  However, even computers which cannot be turned on often have useful parts we can use on other devices.
 
 
-      When it comes to iPhones, we can use iPhone 5 and up.  We accept  iPhone 4 but distribute them for use only as basic mobiles for phoning and sending text messages.  This is because because they can no longer be properly update, so are open to many vulnerabilities. 
+      When it comes to iPhones, we can use iPhone 5 and up. (We also accept iPhone 4 but distribute them for use only as basic mobiles for phoning and sending text messages.  This is because because they can no longer be properly update, so are open to many vulnerabilities.) 
 
 
       If a mobile or tablet screen is cracked but usable, we'll be happy to consider it.  However, we cannot repair or replace smashed or damaged screens. Similarly, if a mobile or tablet cannot be turned on we will be unable to use it. However, charger cables and plugs, and computer power converters and leads in good condition are very helpful as many devices are donated without them.
@@ -89,5 +89,23 @@ items:
 
 
       **[Mobile2Buy](http://www.mobile2buy.co.uk/) mobile & PC repair shop** at 354 Norwood Rd. (They also sell face masks in bulk as well as mobile phones, accessories and services such as unlocking.)
+  - question: Can you collect my donation?
+    answer: Yes, please fill in the **[form
+      ](https://lambeth-techaid.ju.ma/app/donate-device)**and let us know that
+      you need us to collect your donation.  Please provide a mobile number so
+      that we can get in touch to arrange this.
+  - question: What do I do about the data I have on my device?
+    answer: We will ensure all data is fully wiped from every device by our
+      volunteer tech experts before it is given to someone in need.  However, if
+      you wish to delete data and/or factory reset your device before you donate
+      it to us, you can find a number of online guides to do so. For instance,
+      there is
+      **[this](https://computing.which.co.uk/hc/en-gb/articles/208270025-How-to-factory-reset-a-computer)**
+      Which? Guide for Windows computers and Chromebooks,
+      **[this](https://support.google.com/android/answer/6088915?hl=en-GB)**
+      guide for Android phones,
+      **[this](https://support.apple.com/en-gb/HT201065)** guide from Apple for
+      Macs and **[this](https://support.apple.com/en-gb/HT201252)** one for
+      iPhones and iPads
 ---
 Everything you need to know about what to donate and how.  If none of the answers here answer your query, please feel free to email us.
