@@ -32,5 +32,62 @@ items:
       condition and spec, and the ease and cost of replacing the charger. We
       will then be in touch about whether we think we can use it and, if so, to
       arrange collection or delivery to one of our drop off points.
+  - question: "I have some redundant cables, mice, a computer monitor, USB sticks,
+      an external hard drive and other bits and pieces.  Do you want them? "
+    answer: >-
+      We can make good use of any bits and pieces that are used with mobiles,
+      tablets and any type of computer, such as:
+
+
+      * charging cables
+
+      * computer power adapters
+
+      * webcams
+
+      * speakers
+
+      * computer monitors
+
+      * mice (wired or wireless but not the kind that eat cheese, please!)
+
+      * keyboards
+
+      * USB sticks
+
+      * headphones
+
+      * microphones
+
+      * laptop or tablet cases
+
+      * printers
+
+      * assistive technology devices of any kind
+  - question: Can I just drop off the tech I want to donate?  Do I have to fill in
+      the online form?
+    answer: >-
+      Completing the form saves us much more time than it takes you, so we
+      really appreciate it when people use it.  Whether or not you complete the
+      form, you can drop off device donation(s) at either of the locations
+      below.  Please ensure you follow these simple steps:
+
+
+      1. Put your donation(s), including any charging cables or other bits, into one of the bags provided.
+
+
+      2. Complete the short paper form provided, including contact details in case we need a password or other basic info from you.
+
+
+      3. Put the form into the bag with your donation, tie it closed and leave it in the box provided.
+
+
+      **Drop off points:**
+
+
+      **[Batch & Co](https://www.facebook.com/batchandcoffee/?__cft__[0]=AZXcQfOu22LEBBm5fkIr_jjkjnBO2O_NTKWv7ORGVUFJw7f__VMXi8YgQCxJvlWflqPyDigj18mp2xS_r4fluMNINvGRB6hYQdKZeLDR0_H-TxEpXfZ-H91flj6KkeQhSLgcFgQpeRygB_DcuzQnbSjr1qinEmpimVyQEtevNEx4bA&__tn__=kK-R) coffee shop**, 54 Streatham Hill SW2 4RD.  (It's a great excuse to pick up a delicious iced coffee, pastry, sandwich or cake on your way out!)
+
+
+      **[Mobile2Buy](http://www.mobile2buy.co.uk/) mobile & PC repair shop** at 354 Norwood Rd. (They also sell face masks in bulk as well as mobile phones, accessories and services such as unlocking.)
 ---
 Everything you need to know about what to donate and how.  If none of the answers here answer your query, please feel free to email us.
