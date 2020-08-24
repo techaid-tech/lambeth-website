@@ -1,47 +1,25 @@
 ---
-title: "FAQs"
+title: How we allocate devices
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-1.png"
-description : "Frequently Asked Questions"
+image: images/showcase/showcase-1.png
 draft: false
+description: Our policy framework for distributing donated devices
 ---
+We work with local schools and voluntary organisations to ensure that donated mobiles, tablets and computers go to people who genuinely need them. Please see our **[About Us](https://lambeth-techaid.ju.ma/about-us/)** page for the growing list of organisations we have worked with so far. We are always happy to consider others.
 
-Our frequently asked questions with regards to donations and how we process them. 
-If none of the answers here answer your query, feel free to email us. 
+In general, devices will be allocated to organisations in the order in which requests are received and agreed.
 
+**How do you decide who gets what type of device?** Laptops are in extremely high demand, closely mirrored by the demand for tablets. Our guidelines for allocation of device types are listed below. However, they are not absolute rules. If a prospective recipient’s needs fall outside of these guidelines, you are welcome to make a case for why their specific needs should be catered for.
 
-## Does the device have to be working
+* **Laptops** - prioritised for students in year 6 and above, and adults in f/t education. If a student's school requires specific software or operating systems, please supply the name of the school, the year(s) the child(ren) are in, and the specific requirements.
+* **Tablets** - prioritised for students up through year 5 and adults no longer in education
+* **All-in-One** and standard **Desktop Computers** - prioritised for adults with disabilities, the elderly and families with children in education year 5 and above, who have space for them. (Laptops and tablets can be difficult for older people and those with some types of disabilities to hold and use for long periods. They also can cause chronic back and neck problems, especially for the elderly.)
+* **Smartphones** - for individuals 18 & over
+* **Basic mobiles** - prioritised for disabled and elderly individuals who need a mobile for phone calls, without extra complications; when available, anyone requesting them will be considered
 
-Yes. We do not have the capacity to fix devices. We will be doing a fresh install on the donated tech, so it needs to be able to start OK and run without too many problems before we do that install.
+**How many devices can be allocated to a single household?** We consider:
 
-## My device is working, but it seems to be slow / have some problems. Do you still want it?
-
-Yes, probably! Much tech can work perfectly reasonably with a fresh install. Please fill in the donation form with as much detail as possible about the tech you have. We will then be in touch about whether we think we can use it, and if so to arrange collection.
-
-## I’ve lost the power charger. Do you still want it?
-
-Possibly. Please fill in the donation form with as much detail as possible about the tech you have. We will decide whether to take it depending on its overall condition and spec, and the ease and cost of replacing the charger. We will then be in touch about whether we think we can use it, and if so to arrange collection.
-
-## How do you decide who gets the tech, and what tech they get?	
-
-We work with local schools and voluntary organisations to ensure that donated mobiles, tablets and computers go to people who genuinely need them.  
-
-## My device is working, but the screen is broken. Do you still want it?
-
-No. Unfortunately we don’t have the resources to repair devices.  However, charger plugs & cables and laptop power converters & leads are very helpful as many devices are donated without them.
-
-## Can I get donated devices direct from you?
-
-No, we cannot deal with individual requests. If you are in need of technology and do not currently have any, or know someone who is in this situation, please ask their school or other community organisation to contact us
-
-## Will you collect the device or do I need to drop it off?
-
-It depends on the condition of the device you wish to donate. Please complete the donation form with as much detail as possible.  If the device needs no further assessment and it is possible for you to drop it off, we will provide you with details of the drop off point in Streatham.   If it needs to be assessed by our tech experts, or if it isn't possible for you to drop off the device, we will be in touch to arrange a suitable time and day for collection.
-
-## How do I know if you can use my device?
-
-The best way to find out is by completing our device donation simple form with as much detail as possible.  We try to reply within 7 days.
-
-When it comes to iPhones, we can use iPhone 5 and up. The iPhone 4 and earlier can no longer be properly update, so are open to many vulnerabilities.  However, we would very much appreciate their charger plugs, which can be used with later models.
-
-We cannot repair or replace cracked or damaged screens.  Similarly, if a device cannot be turned on we will be unable to use it.  However, charger cables and plugs, and computer power converters and leads in good condition are very helpful as many devices are donated without them.
+* What devices do they currently have, running on which operating systems? (We will try to match operating systems where possible)
+* Do they have confirmed access to the internet capable of supporting more than 1 device?
+* Our expectation is that all tablets & computers will be shared by students with their parents and other household members no longer in full time education. If sharing involves more than 3 individuals, another device can be requested. There should be 1 computer for each child in year 5 and above, shared with 1-2 older household members if needed. There should be 1 tablet for every 2 children in reception through year 4, shared with an adult where needed.
+* Max 3 devices per household in a single request. If required, more can be asked for in a subsequent request. Requesting organisations must ensure the first deliveries are working and being used in a satisfactory way before requesting additional devices for a household.
