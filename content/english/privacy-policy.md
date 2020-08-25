@@ -1,18 +1,18 @@
 ---
-title: "Privacy Policy"
-description : "Lambeth TechAid Privacy Policy"
+title: Privacy Policy
 draft: false
+date: 2020-08-25T08:06:33.532Z
+description: Lambeth TechAid Privacy Policy
 ---
+# Privacy Policy for our website visitors
 
-# Privacy Policy for Lambeth TechAid
-
-At Lambeth TechAid, accessible from https://lambeth-techaid.ju.ma, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Lambeth TechAid and how we use it.
+At [Lambeth TechAid](https://lambeth-techaid.ju.ma), one of our priorities is protecting the privacy of our website visitors. This Privacy Policy document outlines the types of information that we collect and record, and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
 ## Log Files
 
-Lambeth TechAid follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+Lambeth TechAid follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this process, which forms a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
 ## Privacy Policies
 
@@ -22,9 +22,9 @@ Note that Lambeth TechAid has no access to or control over these cookies that ar
 
 ## Third Party Privacy Policies
 
-Lambeth TechAid's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+Lambeth TechAid's Privacy Policy does not apply to other advertisers or websites. Thus, we are advi sing you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. Thismay include their practices and instructions about how to opt-out of certain options.
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, please look at the browsers' respective websites. What Are Cookies?
 
 ## Children's Information
 
@@ -34,7 +34,7 @@ Lambeth TechAid does not knowingly collect any Personal Identifiable Information
 
 ## Online Privacy Policy Only
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Lambeth TechAid. This policy is not applicable to any information collected offline or via channels other than this website.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or i scollected by Lambeth TechAid. This policy is not applicable to any information collected offline or via channels other than this website.
 
 ## Consent
 
