@@ -68,10 +68,12 @@ items:
   - question: Can I just drop off the tech I want to donate?  Do I have to fill in
       the online form?
     answer: >-
-      Completing the form saves us much more time than it takes you, so we
-      really appreciate it when people use it.  Whether or not you complete the
-      form, you can drop off device donation(s) at either of the locations
-      below.  Please ensure you follow these simple steps:
+      Completing the **[form
+      ](https://lambeth-techaid.ju.ma/app/donate-device)**saves us much more
+      time than it takes you, so we really appreciate it when people use
+      it.  Whether or not you complete the form, you can drop off device
+      donation(s) at either of the locations below.  Please ensure you follow
+      these simple steps:
 
 
       1. **BEFORE YOU DROP OFF:** Please remove any iPhone, iPad or Apple Mac computer from your iCloud account.  It would also be very helpful if you remove any password from any device you donate.
