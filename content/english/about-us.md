@@ -4,9 +4,9 @@ draft: false
 date: 2020-08-24T21:34:32.319Z
 description: About Lambeth Techaid
 ---
-Lambeth TechAid was organised in response to the Covid-19 lockdown, which amplified the digital divide.   Overnight, having access to a device and the internet *at home* became essential to communicate with friends & family, to access educational resources and essential online services, and to combat isolation.  
+Lambeth TechAid was organised in response to the Covid-19 lockdown, which amplified the digital divide within society.   Overnight, access to a device and the internet *at home* became essential to communicate with friends & family, to access educational resources and essential online services, and to combat isolation.  
 
-We aim to help bridge the digital divide in Lambeth by supplying smart phones, tablets and laptops to children and adults who would not otherwise be able to obtain them.  
+We aim to help bridge the digital divide in Lambeth by supplying smart phones, tablets and computers to children and adults who would not otherwise be able to obtain them.  
 
 ## What We Do
 
