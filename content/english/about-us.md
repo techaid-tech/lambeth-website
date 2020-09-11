@@ -58,4 +58,4 @@ Requests from other organisations are on our waiting list.
 
 ## Who Backs Us
 
-We are supported by Streatham [MP Bell Ribeiro-Addy](https://bellribeiroaddy.com/) and [InStreatham](https://www.instreatham.com/) Business Improvement District (Streatham BID) as well as [Lambeth Forums Network](https://www.lambeth.gov.uk/elections-and-council/lambeth-forum-network-lfn).
+We are supported by our patron, Streatham [MP Bell Ribeiro-Addy](https://bellribeiroaddy.com/) as well as by [InStreatham](https://www.instreatham.com/) Business Improvement District (Streatham BID) and [Lambeth Forums Network](https://www.lambeth.gov.uk/elections-and-council/lambeth-forum-network-lfn).
