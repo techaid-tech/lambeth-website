@@ -10,8 +10,6 @@ Lambeth TechAid came together in March 2020 as a direct result of the COVID-19 p
 
 Lambeth TechAid is proud to have Labour MP for Streatham, Bell Ribeiro-Addy as our Patron. Our work is supported with generosity from the [Walcot Foundation](lcotfoundation.org.uk), [Battersea Power Station Foundation](http://bpsfoundation.org.uk/) and [Lambeth  Forum Network](https://www.lambeth.gov.uk/about-lambeth/lambeth-forum-network).
 
-
-
 #### What We Do
 
 We collect devices people no longer need (principally computers, tablets and mobile phones), remove all data, ensure they are in good working order and deliver them to people in need, identified through local schools, women’s aid groups, disability, refugee and other community organisations. In Lambeth, where in 2016 there were an estimated 87,000 people living in poverty*, Lambeth TechAid can make a real difference. Through charitable donations from neighbours across the borough, we have been able to provide dozens of students and low income households with the devices they need to access the online world.
@@ -19,8 +17,6 @@ We collect devices people no longer need (principally computers, tablets and mob
 *“Thanks to donations some of our users have been able to face difficult isolation time studying English and taking part to online activities that support their connection with the community and help them to access the support services we provide”*
 
 * Indoamerican Refugee and Migrant Organization
-
-
 
 #### Structure
 
@@ -43,8 +39,6 @@ Devices Technical: Remove all data from, and update, donated equipment
 Volunteer Management & Transport: Ensure new volunteers are trained, inducted and supported; manage collection and delivery of devices
 
 Website & Database: Maintain and further develop our website and database
-
-
 
 #### Who Benefits
 
@@ -117,19 +111,17 @@ Join our volunteer team by completing this [form](https://lambeth-techaid.ju.ma/
 
 If you have a device to donate, please fill in one of our donation forms [here](https://lambeth-techaid.ju.ma/app/donate-device).  You can drop it at one of our drop off locations, listed below, or we can arrange to collect your device from you.
 
-
-
 **Brixton Community Base**\
-[Talma Rd, Brixton, London SW2 1AS](https://www.google.com/maps/place/Brixton+Community+Base/@51.4589473,-0.1130737,17z/data=!3m1!4b1!4m5!3m4!1s0x4876046ed7516fd9:0xf00568cc6a882a72!8m2!3d51.458944!4d-0.110885) (please use the doorbell on our sign on the front door)
+[Talma Rd, Brixton, London SW2 1AS](https://www.google.com/maps/place/Brixton+Community+Base/@51.4589473,-0.1130737,17z/data=!3m1!4b1!4m5!3m4!1s0x4876046ed7516fd9:0xf00568cc6a882a72!8m2!3d51.458944!4d-0.110885) (please use the doorbell on our sign on the front door)\
+Monday-Wednesday   12:00 noon - 5:30pm\
+Saturday                      12:00 noon - 4:30pm
 
-Wednesday - Thursday\
-13:00-17:00
-
-**[](https://www.batchandco.com/)Batch & Co Coffee**\
-[54 Streatham Hill, Streatham, London SW2 4RD](https://www.google.com/maps/place/Batch+%26+Co+Coffee/@51.4419082,-0.1270911,17z/data=!3m1!4b1!4m5!3m4!1s0x4876043b30dbffff:0x8e17db5d2310d909!8m2!3d51.4419049!4d-0.1249024)
-
+[](https://www.batchandco.com/)**Batch & Co Coffee**\
+[54 Streatham Hill, Streatham, London SW2 4RD](https://www.google.com/maps/place/Batch+%26+Co+Coffee/@51.4419082,-0.1270911,17z/data=!3m1!4b1!4m5!3m4!1s0x4876043b30dbffff:0x8e17db5d2310d909!8m2!3d51.4419049!4d-0.1249024)\
 [](https://www.google.com/maps/place/Batch+%26+Co+Coffee/@51.4419082,-0.1270911,17z/data=!3m1!4b1!4m5!3m4!1s0x4876043b30dbffff:0x8e17db5d2310d909!8m2!3d51.4419049!4d-0.1249024)Monday - Saturday\
 8:30-13:30 
 
 **\
-Mobile 2 Buy**[354 Norwood Rd, Norwood, London SE27 9AA](https://www.google.com/maps/place/Mobile+2+Buy/@51.434546,-0.1061354,17z/data=!3m1!4b1!4m5!3m4!1s0x4876040339680ea5:0xcf36caff1dd01af9!8m2!3d51.4345427!4d-0.1039467)Monday - Saturday9:00 - 20:00
+Mobile 2 Buy**\
+[354 Norwood Rd, Norwood, London SE27 9AA](https://www.google.com/maps/place/Mobile+2+Buy/@51.434546,-0.1061354,17z/data=!3m1!4b1!4m5!3m4!1s0x4876040339680ea5:0xcf36caff1dd01af9!8m2!3d51.4345427!4d-0.1039467)\
+Monday - Saturday9:00 - 20:00
