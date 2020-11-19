@@ -113,7 +113,7 @@ If you have a device to donate, please fill in one of our donation forms [here](
 
 **Brixton Community Base**\
 [Talma Rd, Brixton, London SW2 1AS](https://www.google.com/maps/place/Brixton+Community+Base/@51.4589473,-0.1130737,17z/data=!3m1!4b1!4m5!3m4!1s0x4876046ed7516fd9:0xf00568cc6a882a72!8m2!3d51.458944!4d-0.110885) (please use the doorbell on our sign on the front door)\
-Monday-Wednesday   12:00 noon - 5:30pm\
+Monday-Wednesday  12:00 noon - 5:30pm\
 Saturday                      12:00 noon - 4:30pm
 
 [](https://www.batchandco.com/)**Batch & Co Coffee**\
