@@ -44,13 +44,21 @@ Website & Database: Maintain and further develop our website and database
 
 To date, we’ve had donations of more than 220 devices, with no end to the need in sight. Recipients are identified by local schools, charities and voluntary groups.  Students, young people leaving the care system, women identified by women’s aid groups, housing association residents, refugees and families with “No Recourse to Public Funds*’’ all have received devices from us. Many more requests are in the pipeline. Additional requests from other organisations are in the queue, and we believe that there is a considerably wider need for technology and internet access amongst Lambeth’s diverse communities.
 
-Our current and pending recipients’ list includes the following organisations:
+We have fulfilled or are considering requests for devices from the following organisations on behalf of households they work with:
 
 [Age UK Lambeth](https://www.ageuk.org.uk/lambeth/)
 
 [Archbishop Tenison’s School](https://www.tenisons.com/)
 
+[Be Enriched](www.be-enriched.org)
+
+[Brixton Community Base](www.brixtoncommunitybase.org)
+
+[CARAS](www.caras.org.uk)
+
 [Carers Hub Lambeth](https://www.carershub.org.uk/)
+
+Clapham Park Foodbank
 
 [Clear Community Web](https://clearcommunityweb.co.uk/) (digital skills for people served by community groups)
 
@@ -64,7 +72,11 @@ Our current and pending recipients’ list includes the following organisations:
 
 [Elmgreen School](https://www.the-elmgreen-school.org.uk/)
 
+[Friends of Reay Primary School](https://reay.lambeth.sch.uk/)
+
 [Herne Hill Welcomes Refugees](https://twitter.com/hhwr_?lang=en)
+
+[Hestia](https://www.hestia.org/) (emergency refuge)
 
 [](https://twitter.com/hhwr_?lang=en)[IRMO](http://irmo.org.uk/) (Indoamerican Refugee Migrant Organization)
 
@@ -80,7 +92,11 @@ Our current and pending recipients’ list includes the following organisations:
 
 [Mosaic Clubhouse](https://www.mosaic-clubhouse.org/) (mental health support and advocacy)
 
+[Oasis Hub Waterloo](www.oasiswaterloo.org) (community development)
+
 [Our Lady of the Rosary Church](https://www.ourladyoftherosarybrixton.com/)
+
+[People First](https://peoplefirstltd.com/) (self advocacy)
 
 [Rathbone Society](https://rathbonesociety.org.uk/)
 
@@ -88,17 +104,23 @@ Our current and pending recipients’ list includes the following organisations:
 
 [Sister System ](https://www.sistersystem.org/about-us)(support young women who are Looked After Children or Care Leavers)
 
+SLAM (mental health)
+
 [Solace Women’s Aid](https://www.solacewomensaid.org/)
+
+[South Bank UTC](www.southbank-utc.co.uk)
 
 [South London Cares](https://southlondoncares.org.uk/home) (supporting seniors suffering social isolation)
 
 [South London Refugee Association](https://www.slr-a.org.uk/)
 
+[St Michael's Fellowship](www.stmichaelsfellowship.org.uk)
+
 [Streatham Drop-In Centre for Asylum Seekers and Refugees](http://streathamdropin.org.uk/)
 
 [Waterloo Action Centre](http://www.waterlooactioncentre.co.uk/)
 
-[](http://www.waterlooactioncentre.co.uk/)Requests from other organisations are on our waiting list.
+WLM St Luke's Neighbourhood Hub
 
 In order to respond to as broad a range of requests as possible, we ask that organisations limit each request to no more than 5 devices in total. Following delivery of these, the requesting organisation is then welcome to submit another request for up to 5 more devices. There is no limit to the number of requests they can submit but we ask that they wait for an outstanding request to be filled before submitting a further request.
 
@@ -106,7 +128,6 @@ In order to respond to as broad a range of requests as possible, we ask that org
 
 #### How can you get involved?
 
-\
 Join our volunteer team by completing this [form](https://lambeth-techaid.ju.ma/app/volunteer), and we’ll be in touch soon! 
 
 If you have a device to donate, please fill in one of our donation forms [here](https://lambeth-techaid.ju.ma/app/donate-device).  You can drop it at one of our drop off locations, listed below, or we can arrange to collect your device from you.
@@ -114,14 +135,13 @@ If you have a device to donate, please fill in one of our donation forms [here](
 **Brixton Community Base**\
 [Talma Rd, Brixton, London SW2 1AS](https://www.google.com/maps/place/Brixton+Community+Base/@51.4589473,-0.1130737,17z/data=!3m1!4b1!4m5!3m4!1s0x4876046ed7516fd9:0xf00568cc6a882a72!8m2!3d51.458944!4d-0.110885) (please use the doorbell on our sign on the front door)\
 Monday-Wednesday  12:00 noon - 5:30pm\
-Saturday                      12:00 noon - 4:30pm
+Saturday                     12:00 noon - 4:30pm
 
 [](https://www.batchandco.com/)**Batch & Co Coffee**\
 [54 Streatham Hill, Streatham, London SW2 4RD](https://www.google.com/maps/place/Batch+%26+Co+Coffee/@51.4419082,-0.1270911,17z/data=!3m1!4b1!4m5!3m4!1s0x4876043b30dbffff:0x8e17db5d2310d909!8m2!3d51.4419049!4d-0.1249024)\
 [](https://www.google.com/maps/place/Batch+%26+Co+Coffee/@51.4419082,-0.1270911,17z/data=!3m1!4b1!4m5!3m4!1s0x4876043b30dbffff:0x8e17db5d2310d909!8m2!3d51.4419049!4d-0.1249024)Monday - Saturday\
 8:30-13:30 
 
-**\
-Mobile 2 Buy**\
+**Mobile 2 Buy**\
 [354 Norwood Rd, Norwood, London SE27 9AA](https://www.google.com/maps/place/Mobile+2+Buy/@51.434546,-0.1061354,17z/data=!3m1!4b1!4m5!3m4!1s0x4876040339680ea5:0xcf36caff1dd01af9!8m2!3d51.4345427!4d-0.1039467)\
-Monday - Saturday9:00 - 20:00
+Monday - Saturday 9:00 - 20:00
