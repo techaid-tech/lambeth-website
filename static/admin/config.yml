@@ -8,132 +8,169 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - name: 'main'
-    label: 'Main'
-    folder: 'content/english'
+  - name: "main"
+    label: "Main"
+    folder: "content/english"
     create: true
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'faqs'
-    label: 'FAQs'
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "faqs"
+    label: "FAQs"
     create: true
-    folder: 'content/english/faqs'
+    folder: "content/english/faqs"
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean' }
-      - { label: 'Weight', name: 'weight', default: 10, widget: 'number', hint: 'The higher the weight, the lower down on the page the item will appear' }
-      - { label: 'Body', name: 'body', required: false,  widget: 'markdown', hint: 'The content that appears at the top of the FAQ category' }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - {
+          label: "Weight",
+          name: "weight",
+          default: 10,
+          widget: "number",
+          hint: "The higher the weight, the lower down on the page the item will appear",
+        }
+      - {
+          label: "Body",
+          name: "body",
+          required: false,
+          widget: "markdown",
+          hint: "The content that appears at the top of the FAQ category",
+        }
       - name: items
-        label: FAQ 
-        widget: list 
+        label: FAQ
+        widget: list
         fields:
-        - { label: 'question', name: 'question', widget: 'string' }  
-        - { label: 'answer', name: 'answer', widget: 'markdown' }
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/english/blog'
+          - { label: "question", name: "question", widget: "string" }
+          - { label: "answer", name: "answer", widget: "markdown" }
+  - name: "blog"
+    label: "Blog"
+    folder: "content/english/blog"
     create: true
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', required: false,  name: 'body', widget: 'markdown' }
-  - name: 'contact'
-    label: 'Contact Us'
-    folder: 'content/english/contact'
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", required: false, name: "body", widget: "markdown" }
+  - name: "contact"
+    label: "Contact Us"
+    folder: "content/english/contact"
     create: false
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - label: Office 
-        name: office 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - label: Office
+        name: office
         widget: object
         fields:
-        - { label: 'Title', name: 'title', widget: 'string' }
-        - { label: 'Email', name: 'email', widget: 'string' }
-        - { label: 'Location', name: 'location', widget: 'string' }
-        - { label: 'Content', name: 'content', widget: 'markdown' }
-        - label: Twitter 
-          name: twitter
-          widget: object
-          fields: 
-          - { label: 'URL', name: 'url', widget: 'string' }
-          - { label: 'Text', name: 'text', widget: 'string' }
-        - label: Facebook 
-          name: facebook
-          widget: object
-          fields: 
-          - { label: 'URL', name: 'url', widget: 'string' }
-          - { label: 'Text', name: 'text', widget: 'string' }
-  - name: 'homepage'
-    label: 'Home Page'
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Location", name: "location", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+          - label: Twitter
+            name: twitter
+            widget: object
+            fields:
+              - { label: "URL", name: "url", widget: "string" }
+              - { label: "Text", name: "text", widget: "string" }
+          - label: Facebook
+            name: facebook
+            widget: object
+            fields:
+              - { label: "URL", name: "url", widget: "string" }
+              - { label: "Text", name: "text", widget: "string" }
+  - name: "homepage"
+    label: "Home Page"
     editor:
       preview: false
     files:
-    - label: 'Home Page'
-      name: 'sections'
-      file: 'data/en/homepage.yml'
-      fields:
-      - name: 'banner'
-        label: Banner 
-        widget: object
-        fields: 
-        - { label: 'Enable', name: 'enable', widget: 'boolean' } 
-        - { label: 'Title', name: 'title', widget: 'string' } 
-        - { label: 'Image', name: 'image', widget: 'file' } 
-        - { label: 'Content', name: 'content', widget: 'markdown' }
-        - name: button
-          label: Button 
-          widget: object 
-          fields:
-          - { label: 'Enable', name: 'enable', widget: 'boolean' }  
-          - { label: 'Label', name: 'label', widget: 'string' } 
-          - { label: 'Link', name: 'link', widget: 'string' } 
-      - name: 'promo'
-        label: Volunteer 
-        widget: object
-        fields: 
-        - { label: 'Enable', name: 'enable', widget: 'boolean' }
-        - { label: 'Image', name: 'image', widget: 'file' } 
-        - { label: 'Title', name: 'title', widget: 'string' } 
-        - { label: 'Text', name: 'text', widget: 'string' } 
-        - { label: 'Link', name: 'link', widget: 'string' }  
-        - { label: 'Content', name: 'content', widget: 'markdown' } 
-      - name: 'subscription'
-        label: Donate Device 
-        widget: object
-        fields: 
-        - { label: 'Enable', name: 'enable', widget: 'boolean' } 
-        - { label: 'Background Image', name: 'bg_image', widget: 'file' } 
-        - { label: 'Title', name: 'title', widget: 'string' } 
-        - { label: 'Content', name: 'content', widget: 'markdown' } 
-        - { label: 'Link Text', name: 'text', widget: 'string' } 
-        - { label: 'Link', name: 'link', widget: 'string' } 
-      - name: 'testimonial'
-        label: Testimonial 
-        widget: object
-        fields: 
-        - { label: 'Enable', name: 'enable', widget: 'boolean' } 
-        - { label: 'Title', name: 'title', widget: 'string' }
-        - name: testimonial_item
-          label: Testimony 
-          widget: list 
-          fields:
-          - { label: 'Name', name: 'name', widget: 'string', required: false }  
-          - { label: 'Designation', name: 'designation', widget: 'string', required: false } 
-          - { label: 'Content', name: 'content', widget: 'markdown' } 
-      
-
+      - label: "Home Page"
+        name: "sections"
+        file: "data/en/homepage.yml"
+        fields:
+          - name: "banner"
+            label: Banner
+            widget: object
+            fields:
+              - { label: "Enable", name: "enable", widget: "boolean" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Image", name: "image", widget: "file" }
+              - { label: "Content", name: "content", widget: "markdown" }
+              - name: button
+                label: Button
+                widget: object
+                fields:
+                  - { label: "Enable", name: "enable", widget: "boolean" }
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+          - name: "promo"
+            label: Volunteer
+            widget: object
+            fields:
+              - { label: "Enable", name: "enable", widget: "boolean" }
+              - { label: "Image", name: "image", widget: "file" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "text", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+              - { label: "Content", name: "content", widget: "markdown" }
+          - name: "subscription"
+            label: Donate Device
+            widget: object
+            fields:
+              - { label: "Enable", name: "enable", widget: "boolean" }
+              - { label: "Background Image", name: "bg_image", widget: "file" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Content", name: "content", widget: "markdown" }
+              - { label: "Link Text", name: "text", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+          - name: "testimonial"
+            label: Testimonial
+            widget: object
+            fields:
+              - { label: "Enable", name: "enable", widget: "boolean" }
+              - { label: "Title", name: "title", widget: "string" }
+              - name: testimonial_item
+                label: Testimony
+                widget: list
+                fields:
+                  - {
+                      label: "Name",
+                      name: "name",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Designation",
+                      name: "designation",
+                      widget: "string",
+                      required: false,
+                    }
+                  - { label: "Content", name: "content", widget: "markdown" }
+  - name: "supporters"
+    label: "Supporters"
+    files:
+      - label: "Supporter Logos"
+        name: "logos"
+        file: "data/en/supporters.yml"
+        editor:
+          preview: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - name: items
+            label: Supporter
+            widget: list
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "URL", name: "url", widget: "string", default: "#" }
+              - { label: "Logo", name: "logo", widget: "image" }
