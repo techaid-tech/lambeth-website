@@ -24,7 +24,7 @@ jobs:
          echo "secret_key=\$S3_SECRET_ACCESS_KEY"; \
          } > ~/.s3cfg
       - run: rm -rf ./public && hugo
-      - run: "[ -d ./public ] && cd public && s3cmd sync --delete-removed -P . s3://lambeth-web-techaid-tech/"
+      - run: "[ -d ./public ] && cd public && s3cmd sync --delete-removed -P . s3://lambeth-techaid.ju.ma/"
 
 workflows:
   version: 2
