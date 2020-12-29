@@ -49,10 +49,15 @@ URL = "/faqs/"
 weight = 3
 
 # main menu
-#[[menu.main]]
-#name = "Blog"
-#URL = "blog/"
-#weight = 3
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
+weight = 3
+
+[[menu.main]]
+name = "Donate Device"
+URL = "https://app.techaid.ju.ma/donate-device"
+weight = 3
 
 [[menu.main]]
 name = "Request Devices"
