@@ -56,12 +56,12 @@ weight = 3
 
 [[menu.main]]
 name = "Request Devices"
-URL = "app/organisation-device-request"
+URL = "https://app.techaid.ju.ma/organisation-device-request"
 weight = 3
 
 [[menu.main]]
 name = "Go to App"
-URL = "app/"
+URL = "https://app.techaid.ju.ma/"
 weight = 4
 
 [[menu.main]]
