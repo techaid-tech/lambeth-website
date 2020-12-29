@@ -20,7 +20,7 @@ promo:
   image: images/volunteers.jpg
   title: We Need Volunteers
   text: Volunteer
-  link: /app/volunteer
+  link: https://app.techaid.ju.ma//volunteer
   content: >-
     If you would like to assist with this initiative, please fill in the
     volunteer form and 
@@ -33,7 +33,7 @@ subscription:
   content: Do you have a laptop you no longer need? A tablet sitting at the bottom
     of your cupboard? Or a smartphone gathering dust?
   text: Donate Device
-  link: /app/donate-device
+  link: https://app.techaid.ju.ma/donate-device
 testimonial:
   enable: true
   title: Recent Feedback
